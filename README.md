@@ -1,7 +1,9 @@
 # yton0999_9103_tut9
 
-Let’s add some new text to the README.md file and save it.
+## Question 1
+The neon and wireframe-style visuals in Blade Runner 2049 and Cyberpunk 2077 left a strong impression on me and inspired my reinterpretation of Nasreen Mohamedi’s Untitled-1. I plan to incorporate glowing contour lines and a high-contrast color palette—especially cyan, magenta, and deep purple—to enhance visual depth and a futuristic feel. This imaging technique transforms simple lines into dynamic, sci-fi compositions, effectively meeting the assignment’s goals of interactivity and stylistic innovation.
 
-## This is the first markdown. I will do some interesting things later
 
-![一只猫](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg)
+![Blade Runner 2049](https://www.10wallpaper.com/wallpaper/1366x768/1710/Blade_runner_2049_High_Quality_Wallpapers_1366x768.jpg)
+
+![Cyberpunk 2077](https://tse1.mm.bing.net/th?id=OIP.p8KMXYNzBS6xwbb7JCSU9gHaEK&w=266&h=266&c=7)
