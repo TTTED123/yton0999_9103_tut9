@@ -6,4 +6,4 @@ The neon and wireframe-style visuals in Blade Runner 2049 and Cyberpunk 2077 lef
 
 ![Blade Runner 2049](https://www.10wallpaper.com/wallpaper/1366x768/1710/Blade_runner_2049_High_Quality_Wallpapers_1366x768.jpg)
 
-![Cyberpunk 2077](https://vdn3.vzuu.com/SD/91d8154e-23a4-11eb-8ccc-5e6be239a748.mp4?auth_key=1746727534-0-0-4bde687e205f2161fa72458440158ce9&bu=078babd7&c=avc.0.0&disable_local_cache=1&expiration=1746727534&f=mp4&pu=078babd7&v=tx)
+![Cyberpunk 2077](https://cdn-s.cdprojektred.com/news/panoramic/5f649ec388306e6a13ecc732a29c9cc8cff28427cbea62b2.jpeg)
